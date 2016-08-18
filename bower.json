@@ -1,0 +1,17 @@
+{
+    "name": "spicyrice-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/spicyrice-bower.git"
+    },
+    "description": "Spicy Rice font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
